@@ -1,6 +1,6 @@
 {
-  "Version": "4.5.0",
-  "Title": "AI-Regtech",
+  "Version": "1.0.0",
+  "Title": "Hello Again!\nWelcome back",
   "FixedHeader": true,
   "HiddenSideBar": false,
   "MultiTagsCache": false,
@@ -13,7 +13,7 @@
   "Weak": false,
   "HideTabs": false,
   "SidebarStatus": true,
-  "EpThemeColor": "#409EFF",
+  "EpThemeColor": "#8F0BE4",
   "ShowLogo": true,
   "ShowModel": "smart",
   "MenuArrowIconNoTransition": true,

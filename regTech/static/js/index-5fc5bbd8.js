@@ -1,0 +1,1 @@
+import{d as n,u as t,o as a,c as o,t as s,g as c}from"./index-fd231fce.js";const _=n({name:"Notice",__name:"index",setup(r){const{t:e}=t();return(i,p)=>(a(),o("h1",null,s(c(e)("notice.header")),1))}});export{_ as default};
