@@ -1,1 +1,0 @@
-import{d as o,u as s,r as t,o as n,c as l,b as c,t as r,g as d,e as p}from"./index-fd231fce.js";const f=o({name:"Document Details",__name:"index",setup(u){const{t:e}=s();return(i,m)=>{const a=t("el-upload");return n(),l("div",null,[c("h1",null,r(d(e)("details.header")),1),p(a,{drag:"","show-file-list":!1,class:"upload-demo",action:"/file/upload"})])}}});export{f as default};
